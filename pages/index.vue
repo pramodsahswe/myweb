@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        myweb
+        Hello World!!
       </h1>
       <h2 class="subtitle">
         My personal website
